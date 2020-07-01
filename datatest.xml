@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='actor\1.jpg'>
+    <box top='84' left='714' width='449' height='457'/>
+  </image>
+  <image file='actor\10.jpg'>
+    <box top='4' left='19' width='199' height='226'/>
+  </image>
+  <image file='actor\11.jpg'>
+    <box top='52' left='140' width='193' height='206'/>
+  </image>
+  <image file='actor\12.jpg'>
+    <box top='101' left='415' width='337' height='346'/>
+  </image>
+  <image file='actor\13.jpg'>
+    <box top='34' left='170' width='277' height='270'/>
+  </image>
+  <image file='actor\14.jpg'>
+    <box top='90' left='184' width='147' height='136'/>
+  </image>
+  <image file='actor\15.jpg'>
+    <box top='132' left='92' width='232' height='244'/>
+  </image>
+  <image file='actor\16.jpg'>
+    <box top='64' left='144' width='148' height='152'/>
+  </image>
+  <image file='actor\17.jpg'>
+    <box top='173' left='219' width='327' height='296'/>
+  </image>
+  <image file='actor\18.jpg'>
+    <box top='129' left='146' width='234' height='252'/>
+  </image>
+  <image file='actor\19.jpg'>
+    <box top='42' left='176' width='136' height='144'/>
+  </image>
+  <image file='actor\2.jpg'>
+    <box top='157' left='216' width='164' height='182'/>
+  </image>
+  <image file='actor\20.jpg'>
+    <box top='65' left='137' width='142' height='180'/>
+  </image>
+  <image file='actor\3.jpg'>
+    <box top='44' left='234' width='66' height='80'/>
+  </image>
+  <image file='actor\4.jpg'>
+    <box top='76' left='185' width='185' height='203'/>
+  </image>
+  <image file='actor\5.jpg'>
+    <box top='56' left='167' width='203' height='207'/>
+  </image>
+  <image file='actor\6.jpg'>
+    <box top='59' left='205' width='94' height='106'/>
+  </image>
+  <image file='actor\7.jpg'>
+    <box top='56' left='285' width='128' height='153'/>
+  </image>
+  <image file='actor\8.jpg'>
+    <box top='30' left='177' width='64' height='71'/>
+  </image>
+  <image file='actor\9.jpg'>
+    <box top='133' left='154' width='317' height='326'/>
+  </image>
+</images>
+</dataset>
